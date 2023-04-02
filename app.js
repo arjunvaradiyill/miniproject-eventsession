@@ -18,7 +18,7 @@ let products = [
         id: 1,
         name: 'Cff @cusat' ,
         image: '1.PNG',
-        description: "test"
+        description: "test",
     },
     {
         id: 2,
